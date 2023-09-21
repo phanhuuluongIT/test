@@ -1,0 +1,8 @@
+D:\Huong2\CS464\Buoi1\Bai1\Bai1\bin\Debug\Bai1.exe.config
+D:\Huong2\CS464\Buoi1\Bai1\Bai1\bin\Debug\Bai1.exe
+D:\Huong2\CS464\Buoi1\Bai1\Bai1\bin\Debug\Bai1.pdb
+D:\Huong2\CS464\Buoi1\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\Huong2\CS464\Buoi1\Bai1\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\Huong2\CS464\Buoi1\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\Huong2\CS464\Buoi1\Bai1\Bai1\obj\Debug\Bai1.exe
+D:\Huong2\CS464\Buoi1\Bai1\Bai1\obj\Debug\Bai1.pdb
